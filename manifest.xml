@@ -1,0 +1,17 @@
+<package>
+  <description brief="twist2roboteq_msgs">
+
+     twist2roboteq_msgs
+
+  </description>
+  <author>Jonathan Sullivan</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/twist2roboteq_msgs</url>
+  <depend package="roscpp"/>
+  <depend package="geometry_msgs"/>
+  <depend package="roboteq_msgs"/>
+
+</package>
+
+
